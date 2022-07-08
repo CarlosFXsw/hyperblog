@@ -2,4 +2,4 @@ Esta es la historia de Carlos.
 
 Carlos no esta enfermo.
 
-Carlos aprende programacion.
+Carlos aprende Git en este momento.
