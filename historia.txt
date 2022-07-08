@@ -1,5 +1,5 @@
 Esta es la historia de Carlos.
 
-Carlos no esta enfermo.
+Carlos está enfermo con fiebre de 39 °C.
 
-Carlos aprende Git en este momento y en el futuro.
+Carlos se está recuperando muy bien.
