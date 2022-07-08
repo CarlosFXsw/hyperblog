@@ -2,4 +2,4 @@ Esta es la historia de Carlos.
 
 Carlos no esta enfermo.
 
-Carlos aprende Git en este momento.
+Carlos aprende Git en este momento y en el futuro.
