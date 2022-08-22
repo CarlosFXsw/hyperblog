@@ -9,5 +9,7 @@ Blog increíble para el [Curso de Git y GitHub.](https://github.com/CarlosFXsw/h
 - Trucos del profesor.
 - Otras cosas.
 - Creado por el increíble Platzi Team.
+- Incluye ejemplos en Windows, Linux y Mac.
+- Disponible para todas las edades.
 
 Este **README.md** es un ejemplo diseñado como ejercicio. [**Ver curso.**](https://platzi.com/cursos/git-github/ "**Ver curso.**")
