@@ -8,5 +8,6 @@ En este curso he visto:
 - Realizar buenas prácticas.
 - Trucos del profesor.
 - Otras cosas.
+- Creado por el increíble Platzi Team.
 
 Este **README.md** es un ejemplo diseñado como ejercicio. [**Ver curso.**](https://platzi.com/cursos/git-github/ "**Ver curso.**")
