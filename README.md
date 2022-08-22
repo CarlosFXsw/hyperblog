@@ -10,5 +10,6 @@ En este curso he visto:
 - Otras cosas.
 - Creado por el increíble Platzi Team.
 - Incluye ejemplos en Windows, Linux y Mac.
+- Disponible para todas las edades.
 
 Este **README.md** es un ejemplo diseñado como ejercicio. [**Ver curso.**](https://platzi.com/cursos/git-github/ "**Ver curso.**")
