@@ -2,7 +2,7 @@
 Blog increíble para el [Curso de Git y GitHub.](https://github.com/CarlosFXsw/hyperblog "Curso de Git y GitHub.") de PLATZI.
 >El curso de Git y GitHub de Platzi ha sido fantástico para mi aprendizaje como novato en la programación.
 
-En este curso he visto:
+## En este curso he visto:
 - Todos los comandos de Git.
 - El flujo de trabajo de GitHub.
 - Realizar buenas prácticas.
